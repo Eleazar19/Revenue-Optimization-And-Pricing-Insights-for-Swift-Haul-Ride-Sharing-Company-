@@ -58,6 +58,13 @@ The dataset contains ride-level operational data, including:
 ## Dataset
 [Dataset](https://github.com/Eleazar19/Revenue-Optimization-And-Pricing-Insights-for-Swift-Haul-Ride-Sharing-Company-/blob/main/Ride%20sharing%20dataset.xlsx)
 
+
+## Tools and Skills Used 
+Power query: Data cleaning, separation of variables, converting raw numbers to time (ride duration), assigning the right data type, replacing values
+
+Excel: calculated columns, statistical aggregation, pivot tables, calculated metrics, data visualization, and dashboard)
+
+
 ### Methodology 
 
 The project followed a business-driven analytical approach. First, the dataset was reviewed to understand ride operations, pricing drivers, and revenue-related variables. The data was then cleaned and standardized to ensure accurate time, duration, and revenue calculations.
@@ -101,12 +108,6 @@ Finally, insights were translated into clear business interpretations and action
 - The company should retain traffic-based pricing but focus on fine-tuning surge thresholds to ensure revenue per hour remains positive during congestion, while also avoiding excessive fare increases that could reduce ride demand or customer satisfaction.
 
 - Maintain the current weather-responsive pricing strategy, but enhance it with clearer weather-based pricing tiers and proactive rider communication. This will ensure continued revenue stability while improving customer trust and ride acceptance during adverse weather conditions.
-
-
-## Tools and Skills Used 
-Power query: Data cleaning, separation of variables, converting raw numbers to time (ride duration), assigning the right data type, replacing values
-
-Excel: calculated columns, statistical aggregation, pivot tables, calculated metrics, data visualization, and dashboard)
 
 
 
