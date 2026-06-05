@@ -56,7 +56,7 @@ The dataset contains ride-level operational data, including:
  
 
 ## Dataset
-https://github.com/Eleazar19/Revenue-Optimization-And-Pricing-Insights-for-Swift-Haul-Ride-Sharing-Company-/blob/main/Ride%20sharing%20dataset.xlsx
+(https://github.com/Eleazar19/Revenue-Optimization-And-Pricing-Insights-for-Swift-Haul-Ride-Sharing-Company-/blob/main/Ride%20sharing%20dataset.xlsx)
 
 ### Methodology 
 
