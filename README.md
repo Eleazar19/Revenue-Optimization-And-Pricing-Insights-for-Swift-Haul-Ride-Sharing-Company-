@@ -99,17 +99,20 @@ Finally, insights were translated into clear business interpretations and action
 
 
 ## Tools and Skills Used 
-Power query:(Data cleaning, separation of variables, converting raw number to time (ride duration), assigning right data type, replacing values)
+Power query: Data cleaning, separation of variables, converting raw numbers to time (ride duration), assigning the right data type, replacing values
 
-Excel (calculated columns, statistical aggregation, pivot tables, calculated metrics, data visualization, and dashboard)
+Excel: calculated columns, statistical aggregation, pivot tables, calculated metrics, data visualization, and dashboard)
 
 
 
-Value Delivered:
+## Value Delivered
 
 This project delivered clear, data-driven insights into how traffic congestion, weather conditions, and pricing strategies impact revenue efficiency in a ride-sharing business.
+
 By shifting the analysis from total fare to revenue per hour, the project demonstrated that existing pricing mechanisms effectively compensate for longer ride durations caused by high traffic and adverse weather.
+
 The analysis also highlighted how surge pricing and weather-adjusted fares help stabilize earnings, protect revenue during operational challenges, and support fair value exchange between riders, drivers, and the platform.
+
 Overall, the project provides a practical framework for evaluating pricing effectiveness, identifying revenue risks, and supporting smarter pricing and operational decisions that improve profitability without compromising customer experience.
 
  
