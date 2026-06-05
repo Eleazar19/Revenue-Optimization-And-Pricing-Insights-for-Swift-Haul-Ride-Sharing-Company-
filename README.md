@@ -27,32 +27,32 @@ Ride-sharing businesses operate in constantly changing conditions driven by traf
 ### Data Overview: 
 The dataset contains ride-level operational data, including:
 
-Ride ID
-User ID	
-Driver ID
-Ride start date&time
-Ride mode	
-Pickup Location	
-Dropoff Location	
-Distance km	
-Distance Km range	
-Ride Category
-Ride Duration	
-Revenue per hour	
-Ride end date&time	
-Fare Amount	
-Payment Method	
-Ride Status	
-User Rating	
-Driver Rating	
-Surge Pricing	
-Promo Code Used	
-Vehicle Type	
-Weather Condition	
-Traffic Level	
-Driver Experience Years	
-User Type	
-Fare per Km
+- Ride ID
+- User ID	
+- Driver ID
+- Ride start date&time
+- Ride mode	
+- Pickup Location	
+- Dropoff Location	
+- Distance km	
+- Distance Km range	
+- Ride Category
+- Ride Duration	
+- Revenue per hour	
+- Ride end date&time	
+- Fare Amount	
+- Payment Method	
+- Ride Status	
+- User Rating	
+- Driver Rating	
+- Surge Pricing	
+- Promo Code Used	
+- Vehicle Type	
+- Weather Condition	
+- Traffic Level	
+- Driver Experience Years	
+- User Type	
+- Fare per Km
  
 
 
