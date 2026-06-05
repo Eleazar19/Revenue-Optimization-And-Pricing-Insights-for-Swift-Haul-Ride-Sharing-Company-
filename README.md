@@ -8,6 +8,7 @@ Ride-sharing businesses operate in constantly changing conditions driven by traf
 ## Business Problems Solved: 
 ### This project focused on answering key business questions, including:
 - Is the fare charged increasing proportionally with distance, or are there pricing inconsistencies that could cause customer complaints or revenue leakage?
+
 - Are longer ride durations resulting in adequately higher fares, or is the business losing money on time-heavy rides (traffic delays)?
 -  Does surge pricing actually generate higher average revenue per ride, or is it being applied without meaningful financial impact?
 4. Are promo codes significantly reducing average fare value, and are they being applied to rides that would have occurred anyway?
