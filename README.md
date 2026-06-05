@@ -59,7 +59,7 @@ The dataset contains ride-level operational data, including:
 [Dataset](https://github.com/Eleazar19/Revenue-Optimization-And-Pricing-Insights-for-Swift-Haul-Ride-Sharing-Company-/blob/main/Ride%20sharing%20dataset.xlsx)
 
 
-## Tools and Skills Used 
+## Tools and skills used 
 Power query: Data cleaning, separation of variables, converting raw numbers to time (ride duration), assigning the right data type, replacing values
 
 Excel: calculated columns, statistical aggregation, pivot tables, calculated metrics, data visualization, and dashboard)
