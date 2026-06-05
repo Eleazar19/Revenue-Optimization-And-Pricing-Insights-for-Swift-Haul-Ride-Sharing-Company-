@@ -1,8 +1,10 @@
 # Project Title: 
+
 Revenue Optimization & Pricing Insights for Swift-Haul Ride Sharing Company 
 
 
 ## Business context: 
+
 Ride-sharing businesses operate in constantly changing conditions driven by traffic, weather, and demand. This project analyzes whether the company’s pricing strategy effectively compensates for longer ride times and higher operational risks, while maintaining stable revenue performance across different conditions. The goal is to support fair pricing, revenue optimization, and better decision-making through data-driven insights.
 
 Business Problems Solved: This project focused on answering key business questions, including:
