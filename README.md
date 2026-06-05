@@ -56,52 +56,52 @@ The dataset contains ride-level operational data, including:
  
 
 
-Methodology: The project followed a business-driven analytical approach. First, the dataset was reviewed to understand ride operations, pricing drivers, and revenue-related variables. The data was then cleaned and standardized to ensure accurate time, duration, and revenue calculations.
+### Methodology: 
+
+The project followed a business-driven analytical approach. First, the dataset was reviewed to understand ride operations, pricing drivers, and revenue-related variables. The data was then cleaned and standardized to ensure accurate time, duration, and revenue calculations.
+
 Next, key performance metrics such as revenue per hour were derived to measure pricing efficiency under different traffic and weather conditions. Aggregated analysis was conducted to identify patterns, risks, and revenue behavior across operational scenarios.
 Finally, insights were translated into clear business interpretations and actionable recommendations, focusing on revenue sustainability, pricing effectiveness, and operational decision-making.
 
 
 
-Key Insights:
-1 There is a clear price inconsistence within the distance travelled by users per KM as short distance ride cost more compared to long distance ride on per KM basis indicating lack of fair pricing.
+## Key Insights:
+- There is a clear price inconsistence within the distance travelled by users per KM as short distance ride cost more compared to long distance ride on per KM basis indicating lack of fair pricing.
 
-2 Fares for longer rides are charged preoperationally based on the number of KM traveled. Even at this, longer rides still lag greatly on revenue generated per hour considering time consumption and other input cost when been compared with short and medium ride. As this can be tied to more input cost on long rides or lagging pricing method.
+- Fares for longer rides are charged preoperationally based on the number of KM traveled. Even at this, longer rides still lag greatly on revenue generated per hour considering time consumption and other input cost when been compared with short and medium ride. As this can be tied to more input cost on long rides or lagging pricing method.
 
-3 Although price surge is applied on some ride, it adds only a fraction to average revenue generated per ride which stands at (₦0.46).
+- Although price surge is applied on some ride, it adds only a fraction to average revenue generated per ride which stands at (₦0.46).
 
-4 Rides without promotions generate a slightly higher average fare value than rides with promotions (₦60.21 vs ₦59.81), a difference of 0.67%. This indicates that while promotions support engagement, they may be slightly reducing per-ride revenue
+- Rides without promotions generate a slightly higher average fare value than rides with promotions (₦60.21 vs ₦59.81), a difference of 0.67%. This indicates that while promotions support engagement, they may be slightly reducing per-ride revenue
 
-5) Analysis of average revenue per kilometer shows that morning rides generate ₦3.65/km, while night rides generate ₦3.63/km. The marginal difference indicates that both ride modes contribute almost equally to revenue efficiency. This suggests that current pricing between morning and night rides is well balanced, and revenue growth is more likely to come from increasing ride volume or optimizing operational costs rather than adjusting mode-based pricing.
+- Analysis of average revenue per kilometer shows that morning rides generate ₦3.65/km, while night rides generate ₦3.63/km. The marginal difference indicates that both ride modes contribute almost equally to revenue efficiency. This suggests that current pricing between morning and night rides is well balanced, and revenue growth is more likely to come from increasing ride volume or optimizing operational costs rather than adjusting mode-based pricing.
 
-6) During high traffic congestion, average revenue per hour edge higher at #1,836.67 which surpasses revenue generated during low and medium traffic rides. This shows the business isn’t experiencing revenue loss as a result of extra time spent on high traffic rides.
+- During high traffic congestion, average revenue per hour edge higher at #1,836.67 which surpasses revenue generated during low and medium traffic rides. This shows the business isn’t experiencing revenue loss as a result of extra time spent on high traffic rides.
 
-7) Average revenue per hour is strategically moderated across different weather conditions to align with the present weather challenges and risk exposure the company might face.  Interworlds, fare amount moderate downwards during better weather conditions and experience an uptick during hash weather. Therefore revenue per hour can be said to be balanced across different weather.
-
-
+- Average revenue per hour is strategically moderated across different weather conditions to align with the present weather challenges and risk exposure the company might face.  Interworlds, fare amount moderate downwards during better weather conditions and experience an uptick during hash weather. Therefore revenue per hour can be said to be balanced across different weather.
 
 
+## Business Recommendations:
 
-Business Recommendations:
+- Adopt a pricing model that includes a base fare, consistent charges per kilometer, and adjustments based on ride duration. This ensures short trips cover basic operating costs while long-distance rides are priced fairly according to distance and time spent, leading to more balanced and sustainable revenue. 
 
-1 Adopt a pricing model that includes a base fare, consistent charges per kilometer, and adjustments based on ride duration. This ensures short trips cover basic operating costs while long-distance rides are priced fairly according to distance and time spent, leading to more balanced and sustainable revenue. 
+- Introduce a hybrid fare pricing model that dynamically balances distance (KM) and time spent, with a stronger weight on ride duration for longer trips. This ensures that extended ride times caused by traffic, road conditions, or long distances are adequately monetized, thereby improving revenue per hour and protecting driver and platform profitability on long rides.
 
-2 Introduce a hybrid fare pricing model that dynamically balances distance (KM) and time spent, with a stronger weight on ride duration for longer trips. This ensures that extended ride times caused by traffic, road conditions, or long distances are adequately monetized, thereby improving revenue per hour and protecting driver and platform profitability on long rides.
+- Given the minimal impact of surge pricing on average revenue per ride, and instead of relying on surge pricing as a primary revenue lever, the business should prioritize revenue growth through ride volume expansion and cost efficiency. This includes increasing ride frequency, optimizing routes to reduce delays and fuel consumption, and accelerating new user acquisition to drive sustainable revenue growth.
 
-3 Given the minimal impact of surge pricing on average revenue per ride, and instead of relying on surge pricing as a primary revenue lever, the business should prioritize revenue growth through ride volume expansion and cost efficiency. This includes increasing ride frequency, optimizing routes to reduce delays and fuel consumption, and accelerating new user acquisition to drive sustainable revenue growth.
+- Promotions should be strategically targeted rather than broadly applied, focusing on customer acquisition, reactivation (bringing back users), or low-demand periods instead of high-intent or peak rides. This ensures promotions drive incremental demand without unnecessarily reducing revenue from riders who would have paid full price.
 
-4. Promotions should be strategically targeted rather than broadly applied, focusing on customer acquisition, reactivation (bringing back users), or low-demand periods instead of high-intent or peak rides. This ensures promotions drive incremental demand without unnecessarily reducing revenue from riders who would have paid full price.
+- Since revenue per kilometer is nearly identical between morning and night rides, the business should maintain the current time-based pricing structure and redirect strategic focus toward ride volume growth and cost optimization rather than price adjustments by ride mode.
 
-5 Since revenue per kilometer is nearly identical between morning and night rides, the business should maintain the current time-based pricing structure and redirect strategic focus toward ride volume growth and cost optimization rather than price adjustments by ride mode.
+- The company should retain traffic-based pricing but focus on fine-tuning surge thresholds to ensure revenue per hour remains positive during congestion, while also avoiding excessive fare increases that could reduce ride demand or customer satisfaction.
 
-6 The company should retain traffic-based pricing but focus on fine-tuning surge thresholds to ensure revenue per hour remains positive during congestion, while also avoiding excessive fare increases that could reduce ride demand or customer satisfaction.
-
-7 Maintain the current weather-responsive pricing strategy, but enhance it with clearer weather-based pricing tiers and proactive rider communication. This will ensure continued revenue stability while improving customer trust and ride acceptance during adverse weather conditions.
+- Maintain the current weather-responsive pricing strategy, but enhance it with clearer weather-based pricing tiers and proactive rider communication. This will ensure continued revenue stability while improving customer trust and ride acceptance during adverse weather conditions.
 
 
-Tools & Skills Used: 
-Power query:(Data cleaning, separation of variables, converting raw number to time (ride duration), signing right data type, replacing values)
+## Tools and Skills Used 
+Power query:(Data cleaning, separation of variables, converting raw number to time (ride duration), assigning right data type, replacing values)
 
-Excel (calculated columns, statistical aggregation, pivot tables, calculated metrics, data visualization& dashboard)
+Excel (calculated columns, statistical aggregation, pivot tables, calculated metrics, data visualization, and dashboard)
 
 
 
