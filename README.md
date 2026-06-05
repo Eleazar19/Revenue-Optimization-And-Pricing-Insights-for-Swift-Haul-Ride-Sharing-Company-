@@ -5,19 +5,27 @@ Revenue Optimization & Pricing Insights for Swift-Haul Ride Sharing Company
 ## Business context 
 Ride-sharing businesses operate in constantly changing conditions driven by traffic, weather, and demand. This project analyzes whether the company’s pricing strategy effectively compensates for longer ride times and higher operational risks, while maintaining stable revenue performance across different conditions. The goal is to support fair pricing, revenue optimization, and better decision-making through data-driven insights.
 
+
 ## Business Problems Solved: 
 ### This project focused on answering key business questions, including:
+
 - Is the fare charged increasing proportionally with distance, or are there pricing inconsistencies that could cause customer complaints or revenue leakage?
 
-
 - Are longer ride durations resulting in adequately higher fares, or is the business losing money on time-heavy rides (traffic delays)?
--  Does surge pricing actually generate higher average revenue per ride, or is it being applied without meaningful financial impact?
-4. Are promo codes significantly reducing average fare value, and are they being applied to rides that would have occurred anyway?
-5. Which ride mode (Morning vs Night rides) generates higher revenue per kilometer, and are pricing strategies aligned accordingly?
-6 When traffic level is high, does fare pricing sufficiently compensate for increased ride time, or is revenue per minute declining?
-7.During adverse weather conditions, is pricing adjusted in a way that maintains revenue efficiency, or does revenue per ride drop?
 
-Data Overview: The dataset contains ride-level operational data, including:
+-  Does surge pricing actually generate higher average revenue per ride, or is it being applied without meaningful financial impact?
+
+- Are promo codes significantly reducing average fare value, and are they being applied to rides that would have occurred anyway?
+
+- Which ride mode (Morning vs Night rides) generates higher revenue per kilometer, and are pricing strategies aligned accordingly?
+
+- When traffic level is high, does fare pricing sufficiently compensate for increased ride time, or is revenue per minute declining?
+
+- During adverse weather conditions, is pricing adjusted in a way that maintains revenue efficiency, or does revenue per ride drop?
+
+
+### Data Overview: 
+The dataset contains ride-level operational data, including:
 
 Ride ID
 User ID	
