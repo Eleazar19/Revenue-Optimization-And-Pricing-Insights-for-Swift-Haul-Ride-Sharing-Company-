@@ -6,7 +6,7 @@ Revenue Optimization & Pricing Insights for Swift-Haul Ride Sharing Company
 Ride-sharing businesses operate in constantly changing conditions driven by traffic, weather, and demand. This project analyzes whether the company’s pricing strategy effectively compensates for longer ride times and higher operational risks, while maintaining stable revenue performance across different conditions. The goal is to support fair pricing, revenue optimization, and better decision-making through data-driven insights.
 
 
-## Business Problems Solved: 
+## Business Problems Solved 
 ### This project focused on answering key business questions, including:
 
 - Is the fare charged increasing proportionally with distance, or are there pricing inconsistencies that could cause customer complaints or revenue leakage?
@@ -24,7 +24,7 @@ Ride-sharing businesses operate in constantly changing conditions driven by traf
 - During adverse weather conditions, is pricing adjusted in a way that maintains revenue efficiency, or does revenue per ride drop?
 
 
-### Data Overview: 
+### Data Overview 
 The dataset contains ride-level operational data, including:
 
 - Ride ID
@@ -56,7 +56,7 @@ The dataset contains ride-level operational data, including:
  
 
 
-### Methodology: 
+### Methodology 
 
 The project followed a business-driven analytical approach. First, the dataset was reviewed to understand ride operations, pricing drivers, and revenue-related variables. The data was then cleaned and standardized to ensure accurate time, duration, and revenue calculations.
 
@@ -65,7 +65,7 @@ Finally, insights were translated into clear business interpretations and action
 
 
 
-## Key Insights:
+## Key Insights
 - There is a clear price inconsistence within the distance travelled by users per KM as short distance ride cost more compared to long distance ride on per KM basis indicating lack of fair pricing.
 
 - Fares for longer rides are charged preoperationally based on the number of KM traveled. Even at this, longer rides still lag greatly on revenue generated per hour considering time consumption and other input cost when been compared with short and medium ride. As this can be tied to more input cost on long rides or lagging pricing method.
@@ -81,7 +81,7 @@ Finally, insights were translated into clear business interpretations and action
 - Average revenue per hour is strategically moderated across different weather conditions to align with the present weather challenges and risk exposure the company might face.  Interworlds, fare amount moderate downwards during better weather conditions and experience an uptick during hash weather. Therefore revenue per hour can be said to be balanced across different weather.
 
 
-## Business Recommendations:
+## Business Recommendations
 
 - Adopt a pricing model that includes a base fare, consistent charges per kilometer, and adjustments based on ride duration. This ensures short trips cover basic operating costs while long-distance rides are priced fairly according to distance and time spent, leading to more balanced and sustainable revenue. 
 
@@ -114,13 +114,3 @@ By shifting the analysis from total fare to revenue per hour, the project demons
 The analysis also highlighted how surge pricing and weather-adjusted fares help stabilize earnings, protect revenue during operational challenges, and support fair value exchange between riders, drivers, and the platform.
 
 Overall, the project provides a practical framework for evaluating pricing effectiveness, identifying revenue risks, and supporting smarter pricing and operational decisions that improve profitability without compromising customer experience.
-
- 
-
-
-
-
-
-
-
-# Revenue-Optimization-And-Pricing-Insights-for-Swift-Haul-Ride-Sharing-Company-
