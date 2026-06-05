@@ -55,6 +55,8 @@ The dataset contains ride-level operational data, including:
 - Fare per Km
  
 
+## Dataset
+https://github.com/Eleazar19/Revenue-Optimization-And-Pricing-Insights-for-Swift-Haul-Ride-Sharing-Company-/blob/main/Ride%20sharing%20dataset.xlsx
 
 ### Methodology 
 
@@ -63,6 +65,9 @@ The project followed a business-driven analytical approach. First, the dataset w
 Next, key performance metrics such as revenue per hour were derived to measure pricing efficiency under different traffic and weather conditions. Aggregated analysis was conducted to identify patterns, risks, and revenue behavior across operational scenarios.
 Finally, insights were translated into clear business interpretations and actionable recommendations, focusing on revenue sustainability, pricing effectiveness, and operational decision-making.
 
+
+## Dashboard
+<img width="1259" height="467" alt="Ride sharing dashboard" src="https://github.com/user-attachments/assets/86fabc3d-e6f9-4d8b-8e40-531559733e44" />
 
 
 ## Key Insights
