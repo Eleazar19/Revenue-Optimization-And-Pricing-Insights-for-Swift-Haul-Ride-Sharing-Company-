@@ -1,5 +1,5 @@
 # Project Title 
-Revenue Optimization & Pricing Insights for Swift-Haul Ride Sharing Company 
+Revenue Optimization & Pricing Insights for Swift-Haul Ride Booking Company 
 
 
 ## Business context 
