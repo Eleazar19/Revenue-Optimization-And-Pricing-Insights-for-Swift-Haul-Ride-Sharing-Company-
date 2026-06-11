@@ -90,7 +90,7 @@ Finally, insights were translated into clear business interpretations and action
 
 - During high traffic congestion, average revenue per hour edge higher at #1,836.67 which surpasses revenue generated during low and medium traffic rides. This shows the business isn’t experiencing revenue loss as a result of extra time spent on high traffic rides.
 
-- Average revenue per hour is strategically moderated across different weather conditions to align with the present weather challenges and risk exposure the company might face.  Interworlds, fare amount moderate downwards during better weather conditions and experience an uptick during hash weather. Therefore revenue per hour can be said to be balanced across different weather.
+- Average revenue per hour is strategically moderated across different weather conditions to align with the present weather challenges and risk exposure the company might face.  In other words, fare amount moderate downwards during better weather conditions and experience an uptick during hash weather. Therefore revenue per hour can be said to be balanced across different weather.
 
 
 ## Business Recommendations
