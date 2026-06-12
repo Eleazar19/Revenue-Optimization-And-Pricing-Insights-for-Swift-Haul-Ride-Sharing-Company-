@@ -80,7 +80,7 @@ Finally, insights were translated into clear business interpretations and action
 ## Key Insights
 - There is a clear price inconsistence within the distance travelled by users per KM as short distance ride cost more compared to long distance ride on per KM basis indicating lack of fair pricing.
 
-- Fares for longer rides are charged preoperationally based on the number of KM traveled. Even at this, longer rides still lag greatly on revenue generated per hour considering time consumption and other input cost when been compared with short and medium ride. As this can be tied to more input cost on long rides or lagging pricing method.
+- Fares for longer rides are charged proportionally based on the number of KM traveled. Even at this, longer rides still lag greatly on revenue generated per hour considering time consumption and other input cost when been compared with short and medium ride. As this can be tied to more input cost on long rides or lagging pricing method.
 
 - Although price surge is applied on some ride, it adds only a fraction to average revenue generated per ride which stands at (₦0.46).
 
